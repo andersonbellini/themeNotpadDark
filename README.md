@@ -1,4 +1,3 @@
-[GIT CLONE from friend @SeanCline]
 Dark Theme for Notepad++
 =============
 
